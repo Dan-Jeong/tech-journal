@@ -7,7 +7,7 @@ I'm Dan, a junior develper with a passion for learning and growing in the tech i
 I started my career in Jan, 2024, and I'm eager to expand/enhance my skills to become a better software developer.
 
 ## Goals
-- **Enhance skills in Angular and TypeScript
-- **Learn advanced JS concepts
-- **Explore new technologies by starting own my personal projects
-- **Document my learning process and progress.
+- Enhance skills in Angular and TypeScript
+- Learn advanced JS concepts
+- Explore new technologies by starting own my personal projects
+- Document my learning process and progress.
